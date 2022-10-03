@@ -1,0 +1,53 @@
+p{
+    text-align: center;
+}
+
+body{
+   
+}
+
+em strong{
+    color: red;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+#banner{
+    width: 100%;
+}
+
+.items{
+    font-style: italic;
+}
+
+.dif{
+    background: white;
+    padding: 30px;
+}
+
+.pri{
+    background: rgb(216, 212, 212);
+    padding: 20px;
+}
+
+.cenTex{
+    text-align: center;
+}
+
+.difmg{
+    
+    width: 50%;
+}
+
+.mainTitle{
+    padding-left: 20%;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
